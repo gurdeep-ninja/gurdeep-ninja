@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @gurdeep-ninja
 - 👀 I’m interested in Website development
-- 🌱 I’m currently learning PHP, JavaScript & React
+- 🌱 PHP, JavaScript & ReactJS.
+- 🏗️ Shopify, Magento, Wordpress.
 - 💞️ I’m looking to collaborate on PHP, JS & React Projects
-- 📫 How to reach me. Send me a message!
+- 📫 How to reach me. Send me a message or visit my website [https://gurdeep.ninja](https://gurdeep.ninja)
+- 🔗[LinkedIn](https://www.linkedin.com/in/gurdeep-bangar)
 
 <!---
 gurdeep-ninja/gurdeep-ninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
